@@ -6,7 +6,7 @@
 
 ### Run the Program
 
-1. Extract the `FileWordFinder.exe` file from `bin\debug\net6.0\`.
+1. Extract the `FileWordFinder.exe` file from `FileWordFinder\bin\debug\net6.0\`.
 2. Double-click or right-click and open the `FileWordFinder.exe` file to run the program.
 
 ### Provide Input
