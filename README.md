@@ -25,6 +25,7 @@ This is a test.
 
 Hello again.
 
+
 And you search for `Hello`, the output will be:
 
 Word 'Hello' found on line 1
