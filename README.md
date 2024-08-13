@@ -5,8 +5,9 @@
 ## How to Use
 
 1. **Run the Program**:
-   - Open the project in Visual Studio.
-   - Build and run the program.
+- Download and extract the `.exe` file from the release.
+- Double-click the `.exe` file to run the program.
+
 
 2. **Provide Input**:
    - When prompted, enter the full path to the text file you want to search.
