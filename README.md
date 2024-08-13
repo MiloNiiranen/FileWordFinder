@@ -4,21 +4,19 @@
 
 ## How to Use
 
-1. **Run the Program**:
-- Download and extract the `.exe` file from the release.
-- Double-click the `.exe` file to run the program.
+### Run the Program
 
+1. Extract the `FileWordFinder.exe` file from `bin\debug\net6.0\`.
+2. Double-click or right-click and open the `FileWordFinder.exe` file to run the program.
 
-2. **Provide Input**:
-   - When prompted, enter the full path to the text file you want to search.
-   - Then, enter the word you want to search for in the file.
+### Provide Input
 
-3. **View Results**:
-   - The program will display how many times the word appears in the file and on which lines.
+1. When prompted, enter the full path to the text file you want to search.
+2. Then, enter the word you want to search for in the file.
 
-## Example
+### View Results
 
-**If your text file (`example.txt`) contains:**
+**The program will display how many times the word appears in the file and on which lines.**
 
 Hello world!
 
