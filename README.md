@@ -20,11 +20,16 @@
 **If your text file (`example.txt`) contains:**
 
 Hello world!
+
 This is a test.
+
 Hello again.
+
 
 **And you search for `Hello`, the output will be:**
 
 Word 'Hello' found on line 1
+
 Word 'Hello' found on line 3
+
 Word 'Hello' was found 2 time(s) in 'example.txt'
