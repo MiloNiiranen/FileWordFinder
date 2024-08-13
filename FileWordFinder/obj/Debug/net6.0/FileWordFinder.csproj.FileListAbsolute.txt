@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\bin\Debug\net6.0\FileWordFinder.exe
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\bin\Debug\net6.0\FileWordFinder.deps.json
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\bin\Debug\net6.0\FileWordFinder.runtimeconfig.json
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\bin\Debug\net6.0\FileWordFinder.dll
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\bin\Debug\net6.0\FileWordFinder.pdb
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\obj\Debug\net6.0\FileWordFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\obj\Debug\net6.0\FileWordFinder.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\obj\Debug\net6.0\FileWordFinder.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\obj\Debug\net6.0\FileWordFinder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\obj\Debug\net6.0\FileWordFinder.dll
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\obj\Debug\net6.0\refint\FileWordFinder.dll
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\obj\Debug\net6.0\FileWordFinder.pdb
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\obj\Debug\net6.0\FileWordFinder.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Ohjelmointi harjoituksia\FileWordFinder\FileWordFinder\obj\Debug\net6.0\ref\FileWordFinder.dll
